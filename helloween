@@ -1,0 +1,30 @@
+ <html>
+    <titles>Хелловін</titles>
+    <body>
+        <header style="background-color:black">
+        <img src ="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/41958/jack-o-lantern-emoji-clipart-xl.png"height="50px"><p style="color:white">Солодощі або життя!</p>
+        </header>
+        <main style="background-color:orange">
+            <h1 style="text-align:center">Св'ято Хелловін</h1>
+            <p>Походження слова Уперше назва Хелловіну (Halloween) згадується у 1745 році. Слово походить від англійського Hallowe'en — скорочення виразу All Hallow's Eve — Вечір усіх святих, яке своєю чергою розшифровується як All Hallowed Souls Eve — дослівно: Вечір усіх святих душ.</p>
+            <p style="font-family:sans-serif"> На думку багатьох дослідників, Хелловін є християнізованим святом і походить від стародавніх кельтських святкувань збору врожаю. Ці урочистості мали назву Самайн (староірландське «Samhain» — «кінець літа») і проводилися наприкінці жовтня.  Згідно з віруваннями древніх кельтів, саме в ніч з 31 жовтня на 1 листопада злі духи приходили в світ людей, і для того, щоб захиститися від них, було прийнято розпалювати величезні вогнища і вбиратися у звірині шкури. А щоб задобрити духів, кельти залишали для них частування на вулиці.</p>
+            <p>Діти напередодні Хеллоуїна традиційно вбираються в костюми всіляких потвор і містичних істот — Мумій, монстра Франкенштейна, відьом, злих духів і персонажів фільмів жахів, а потім обходять родичів і знайомих, збираючи так звану «данину» — солодощі та здобу, викрикуючи при цьому фразу: «Солодощі або життя!Однак в Америці Хелловін втратив свій релігійно-поминальний підтекст і почав сприйматися лише як розвага та веселощі.</p>
+            </main>
+            <table>
+                <tr>
+                    <td><img src="https://today.ua/wp-content/uploads/2021/10/4-72-487x391.jpg"height="50px"></td>
+                    <td><img src="https://ukranews.com/upload/news/2017/10/30/59f1be987b5f6-o-halloween-facebook_1200.jpg"height="50px"></td>
+                    <td><img src="https://zn.ua/img/article/2371/50_main.jpg"height="50px"></td>
+                    </tr>
+                    <tr>
+                        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW5YWLSyOxwPCJeKS6BDAqF60s8TMM6SweADlWhrHh1hBTEp9kydQcSHtk8vSJJ-vSqI&usqp=CAU"height="50px"></td>
+                        <td><img src="http://2.bp.blogspot.com/-ufBJH63o6No/VjIJ1A4dJmI/AAAAAAAAA4I/V2IHAxccS54/s1600/Halloween%2BTrick%2Bor%2BTreat.jpg"height="50px"></td>
+                        <td><img src="https://poland2day.com/wp-content/uploads/2017/10/hell.jpg"height="50px"></td>
+                        </tr>
+                    </table>
+            
+            <footer style="background-color:black">
+                <img src ="https://kyiv.comments.ua/img/publications/0hPpTb4gpX2dWuNS9Uko89sMrkTdFPgF.jpg"height="80px"><span style="color:orange">Happy halloween!</span>
+                </footer>
+    </body>
+    </html>
